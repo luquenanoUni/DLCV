@@ -8,5 +8,3 @@ Contains implementations for binary and multiclass classifiers with classes and 
 - A Single fully connected layer architecture with 784 neurons for **binary** classification
 - A Double fully connected layers architecture with 784 and 64 neurons for **binary** classification
 - A Double fully connected layers architecture with 784 and 64 neurons for **multiclass** classification
-String containing the 'video_file_name'
-Integer referring to the 'deltaT' jump between frames in the video sequence
