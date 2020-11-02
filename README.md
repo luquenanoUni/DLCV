@@ -11,6 +11,6 @@ Implementing basic Neural Networks for binary and multiclass classification base
 1. Batch Sizes
 2. Activation Functions
 3. Optimizers
-## 4. Implementing Convolutional Neural Networks with Keras on MNIST Dataset and CIFAR10
-Implementing one, two and three layers deep CNNs with a sequential Keras model for multiclass classification on MNIST and CIFAR10 Datasets. A comparisson between a fully connected layered network and a CNN is posed. Transfer learning from RESNET model is performed for CIFAR10 classification.
-## 5. Fifth item
+## 4. Implementing Convolutional Neural Networks with Keras on MNIST and CIFAR10 Datasets
+Implementing one, two and three layers deep CNNs with a sequential Keras model for multiclass classification on MNIST and CIFAR10 Datasets. A comparisson between a fully connected layered network and CNNs is posed. Transfer learning from RESNET model is performed for CIFAR10 classification.
+## 5. Implementing Basic Generative Adversial Networks on MNIST and CIFAR 10 Datasets
