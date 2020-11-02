@@ -10,5 +10,5 @@ Contains implementations for **Multiclass** classifiers based on CNNs and Densel
 - A two hidden layers CNN
 - A three hidden layers CNN
 - A fully connected one fully connected hidden layer.
-3. *CNN_TransferLearningAlexNet* \
-Contains an implementation of Transfer Learning from AlexNet to the proposed Network
+3. *CNN_TransferLearningResNet* \
+Contains an implementation of Transfer Learning from ResNet to the proposed Network
