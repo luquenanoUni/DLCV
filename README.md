@@ -7,7 +7,7 @@ Coding optical flow estimation methods using global motion estimations and by vi
 ## 2. Implementing a Neural Network from Scratch
 Implenting basic Neural Networks from Scratch for binary and multiclass classification with different depth and size of networks.
 ## 3.  Implementing a Neural Network with Keras
-Implementing basic Neural Networks with a pre-existing library to build sequential fully connected networks. Investigating on the effectiveness and behavior of the architecture after changing three main parameters
+Implementing basic Neural Networks for binary and multiclass classification with a pre-existing library to build sequential fully connected networks. Investigating on the effectiveness and behavior of the architecture after changing three main parameters
 1. Batch Sizes
 2. Activation Functions
 3. Optimizers
